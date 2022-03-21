@@ -2,6 +2,12 @@
 
 simple golang test REST api application
 
+Before the running of the application create the json directory in project folder:
+```
+cd $path_to_project/gcounter_test
+mkdir json 
+```
+
 ## Running the application
 To run the application go to project directrory and execute:
 ```
